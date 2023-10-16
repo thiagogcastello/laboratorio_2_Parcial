@@ -35,7 +35,7 @@ namespace Gonzalez.Castello.Thiago.Parcial
 
         private void frmOperario_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         protected void label1_Click(object sender, EventArgs e)
@@ -50,7 +50,7 @@ namespace Gonzalez.Castello.Thiago.Parcial
 
         protected void label1_Click_1(object sender, EventArgs e)
         {
-            
+
         }
 
         protected void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
