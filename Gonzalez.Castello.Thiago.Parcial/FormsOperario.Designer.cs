@@ -96,13 +96,16 @@
             dgvStock.AllowUserToAddRows = false;
             dgvStock.AllowUserToDeleteRows = false;
             dgvStock.AllowUserToOrderColumns = true;
+            dgvStock.AllowUserToResizeColumns = false;
+            dgvStock.AllowUserToResizeRows = false;
             dgvStock.BackgroundColor = SystemColors.ControlDarkDark;
-            dgvStock.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvStock.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             dgvStock.Columns.AddRange(new DataGridViewColumn[] { producto, cantidadProducto });
             dgvStock.GridColor = SystemColors.InfoText;
             dgvStock.Location = new Point(368, 50);
             dgvStock.Name = "dgvStock";
             dgvStock.ReadOnly = true;
+            dgvStock.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             dgvStock.RowTemplate.Height = 25;
             dgvStock.Size = new Size(244, 320);
             dgvStock.TabIndex = 5;
