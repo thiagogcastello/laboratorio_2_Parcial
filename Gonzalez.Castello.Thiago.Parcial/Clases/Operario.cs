@@ -16,7 +16,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             sb.Append(base.MostrarInfo());
-            sb.AppendLine($"Tipo Empleado: {this.TipoTrabajador}.");
+            sb.AppendLine($"Tipo Empleado: {this.TipoTrabajador}");
 
             return sb.ToString();
         }

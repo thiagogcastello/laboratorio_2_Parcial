@@ -15,7 +15,7 @@ namespace Entidades
         {
             this.nombre = nombre;
             this.dni = dni;
-            this.tipoTrabajador = tipoTrabajador;
+            this.tipoTrabajador = tipoTrabajador;   
             CrearCuentaEmpleado();
         }
 
@@ -108,6 +108,11 @@ namespace Entidades
             sb.AppendLine($"Legajo: {this.legajo}");
 
             return sb.ToString();
+        }
+
+        public bool ProducirProducto()
+        {
+            return true;
         }
     }
 }

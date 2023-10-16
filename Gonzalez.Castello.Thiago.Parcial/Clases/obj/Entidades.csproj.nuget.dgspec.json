@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj": {}
+    "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\ParcialConsola\\Clases\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj": {
+    "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\ParcialConsola\\Clases\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\ParcialConsola\\Clases\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\ParcialConsola\\Clases\\Entidades.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\ParcialConsola\\Clases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,15 +53,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "version": "[6.0.23, 6.0.23]"
             }
           ],
           "frameworkReferences": {
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj",
-      "projectName": "Entidades",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Clases.csproj",
+      "projectName": "Clases",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\Clases.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Clases\\obj\\",
       "projectStyle": "PackageReference",
@@ -59,15 +59,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.22, 6.0.22]"
+            "version": "[6.0.23, 6.0.23]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.22, 6.0.22]"
+            "version": "[6.0.23, 6.0.23]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.22, 6.0.22]"
+            "version": "[6.0.23, 6.0.23]"
           }
         ],
         "frameworkReferences": {
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
