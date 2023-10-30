@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8U3phFcypskyf0IunmlLxoG1cnq9Eih5zHOI1K7SN70HpAx3YuJIs6jLwwT/sJbTfMo1WIQRMu3Qvf0ajS5/uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Gonzalez.Castello.Thiago.Parcial\\Gonzalez.Castello.Thiago.Parcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

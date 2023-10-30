@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.deps.json
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\Entidades.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\refint\ClasesMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ref\ClasesMetodos.dll
