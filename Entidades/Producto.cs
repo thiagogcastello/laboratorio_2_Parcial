@@ -11,8 +11,8 @@ namespace Entidades
         private string nombre;
         private int id;
         private string marca;
-        private List<string> procesosProduccion;
         private Dictionary<string,int> materiales;
+        private List<string> procesosProduccion;
 
         public Producto(string nombre,int id, Dictionary<string, int> materiales, List<string> procesosProduccion, string razonSocial, string cuil) : base (razonSocial, cuil)
         {
@@ -60,6 +60,14 @@ namespace Entidades
             get
             {
                 return materiales;
+            }
+        }
+
+        public List<string> ProcesosProduccion
+        {
+            get
+            {
+                return procesosProduccion;
             }
         }
 

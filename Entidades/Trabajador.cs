@@ -4,11 +4,11 @@ namespace Entidades
 {
     public abstract class Trabajador
     {
-        private string nombreUsuario = "";
-        private string password = "";
-        private string nombre = "";
+        private string nombreUsuario;
+        private string password;
+        private string nombre;
         private ulong dni;
-        private string legajo = "";
+        private string legajo;
         private TipoEmpleado tipoTrabajador;
 
         protected Trabajador(string nombre, ulong dni, TipoEmpleado tipoTrabajador)
