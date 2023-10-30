@@ -2,17 +2,17 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "ClasesMetodos/1.0.0": {
+      "BibliotecaMetodos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Entidades": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ClasesMetodos.dll": {}
+          "bin/placeholder/BibliotecaMetodos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClasesMetodos.dll": {}
+          "bin/placeholder/BibliotecaMetodos.dll": {}
         }
       },
       "Entidades/1.0.0": {
@@ -28,10 +28,10 @@
     }
   },
   "libraries": {
-    "ClasesMetodos/1.0.0": {
+    "BibliotecaMetodos/1.0.0": {
       "type": "project",
-      "path": "../ClasesMetodos/ClasesMetodos.csproj",
-      "msbuildProject": "../ClasesMetodos/ClasesMetodos.csproj"
+      "path": "../ClasesMetodos/BibliotecaMetodos.csproj",
+      "msbuildProject": "../ClasesMetodos/BibliotecaMetodos.csproj"
     },
     "Entidades/1.0.0": {
       "type": "project",
@@ -41,7 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ClasesMetodos >= 1.0.0",
+      "BibliotecaMetodos >= 1.0.0",
       "Entidades >= 1.0.0"
     ]
   },
@@ -72,8 +72,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\ClasesMetodos\\ClasesMetodos.csproj": {
-              "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\ClasesMetodos\\ClasesMetodos.csproj"
+            "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\ClasesMetodos\\BibliotecaMetodos.csproj": {
+              "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\ClasesMetodos\\BibliotecaMetodos.csproj"
             },
             "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\Entidades.csproj"

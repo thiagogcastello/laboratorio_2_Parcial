@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gonzalez.Castello.Thiago.Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{6048B2FA-5B13-429C-9F3F-4950E03F278A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesMetodos", "ClasesMetodos\ClasesMetodos.csproj", "{D0DA900E-3B42-4917-AD66-3B2E06530BC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaMetodos", "ClasesMetodos\BibliotecaMetodos.csproj", "{D0DA900E-3B42-4917-AD66-3B2E06530BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

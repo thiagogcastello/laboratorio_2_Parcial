@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClasesMetodos\ClasesMetodos.csproj" />
+    <ProjectReference Include="..\ClasesMetodos\BibliotecaMetodos.csproj" />
     <ProjectReference Include="..\Entidades\Entidades.csproj" />
   </ItemGroup>
 
