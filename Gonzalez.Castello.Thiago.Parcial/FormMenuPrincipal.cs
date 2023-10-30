@@ -9,7 +9,6 @@ namespace Gonzalez.Castello.Thiago.Parcial
             InitializeComponent();
         }
 
-
         /// <summary>
         /// Maneja el evento de cambio de estado del CheckBox 'cbMostrarContraseña'. 
         /// Cambia la visibilidad del texto en el cuadro de contraseña para mostrar u ocultar la contraseña según el estado del CheckBox.

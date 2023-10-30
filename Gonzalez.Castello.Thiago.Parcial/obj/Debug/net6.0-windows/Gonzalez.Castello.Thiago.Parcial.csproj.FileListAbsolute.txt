@@ -21,5 +21,5 @@ C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonz
 C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\obj\Debug\net6.0-windows\Gonzalez.Castello.Thiago.Parcial.frmOperario.resources
 C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\obj\Debug\net6.0-windows\Gonzalez.Castello.Thiago.Parcial.frmMenuPrincipal.resources
 C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\obj\Debug\net6.0-windows\Gonzalez.Castello.Thiago.Parcial.frmSupervisor.resources
-C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\bin\Debug\net6.0-windows\ClasesMetodos.dll
-C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\bin\Debug\net6.0-windows\ClasesMetodos.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\bin\Debug\net6.0-windows\BibliotecaMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial\bin\Debug\net6.0-windows\BibliotecaMetodos.pdb

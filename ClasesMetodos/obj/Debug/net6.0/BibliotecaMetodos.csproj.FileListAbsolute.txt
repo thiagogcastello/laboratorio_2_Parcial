@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\BibliotecaMetodos.deps.json
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\BibliotecaMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\BibliotecaMetodos.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\Entidades.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\refint\BibliotecaMetodos.dll
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\BibliotecaMetodos.pdb
+C:\Users\thiag\OneDrive\Escritorio\Labo_ll\Gonzalez.Castello.Thiago.Parcial\ClasesMetodos\obj\Debug\net6.0\ref\BibliotecaMetodos.dll

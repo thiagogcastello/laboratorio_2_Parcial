@@ -6,15 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Gonzalez.Castello.Thiago.Parcial/1.0.0": {
-        "dependencies": {
-          "BibliotecaMetodos": "1.0.0",
-          "Entidades": "1.0.0"
-        },
-        "runtime": {
-          "Gonzalez.Castello.Thiago.Parcial.dll": {}
-        }
-      },
       "BibliotecaMetodos/1.0.0": {
         "dependencies": {
           "Entidades": "1.0.0"
@@ -31,11 +22,6 @@
     }
   },
   "libraries": {
-    "Gonzalez.Castello.Thiago.Parcial/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "BibliotecaMetodos/1.0.0": {
       "type": "project",
       "serviceable": false,
