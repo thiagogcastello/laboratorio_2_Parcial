@@ -59,7 +59,6 @@
             lblInventario.Size = new Size(219, 37);
             lblInventario.TabIndex = 0;
             lblInventario.Text = "INVENTARIO";
-            //lblInventario.Click += label1_Click;
             // 
             // btnCerrarSesion
             // 
@@ -79,7 +78,6 @@
             label1.Size = new Size(62, 15);
             label1.TabIndex = 3;
             label1.Text = "USUARIO: ";
-            //label1.Click += label1_Click_1;
             // 
             // btnProducir
             // 
@@ -109,7 +107,6 @@
             dgvStock.RowTemplate.Height = 25;
             dgvStock.Size = new Size(244, 320);
             dgvStock.TabIndex = 5;
-            //dgvStock.CellContentClick += dataGridView1_CellContentClick;
             dgvStock.CellFormatting += dgvStock_CellFormatting;
             // 
             // producto
@@ -144,7 +141,6 @@
             lbProductos.Name = "lbProductos";
             lbProductos.Size = new Size(188, 94);
             lbProductos.TabIndex = 6;
-            //lbProductos.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // lblNombre
             // 
@@ -163,7 +159,6 @@
             lblFecha.Size = new Size(50, 15);
             lblFecha.TabIndex = 7;
             lblFecha.Text = "FECHA: ";
-            //lblFecha.Click += label2_Click;
             // 
             // lblFechaActual
             // 
@@ -173,7 +168,6 @@
             lblFechaActual.Size = new Size(38, 15);
             lblFechaActual.TabIndex = 8;
             lblFechaActual.Text = "label2";
-            //lblFechaActual.Click += lblFechaActual_Click;
             // 
             // pbFabricacion
             // 
@@ -183,7 +177,6 @@
             pbFabricacion.Style = ProgressBarStyle.Continuous;
             pbFabricacion.TabIndex = 9;
             pbFabricacion.Visible = false;
-            //pbFabricacion.Click += progressBar1_Click;
             // 
             // tmrProducto
             // 
