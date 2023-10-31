@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\parcial_Laboratorio_2\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\parcial_Laboratorio_2\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\parcial_Laboratorio_2\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",

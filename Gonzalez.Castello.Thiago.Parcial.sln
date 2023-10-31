@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gonzalez.Castello.Thiago.Parcial", "Gonzalez.Castello.Thiago.Parcial\Gonzalez.Castello.Thiago.Parcial.csproj", "{239510BD-8291-4932-B73A-492A2436F6D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parcial_Laboratorio_2", "parcial_Laboratorio_2\parcial_Laboratorio_2.csproj", "{239510BD-8291-4932-B73A-492A2436F6D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{6048B2FA-5B13-429C-9F3F-4950E03F278A}"
 EndProject

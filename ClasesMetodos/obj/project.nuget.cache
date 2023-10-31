@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dcTFg1xQlg4WN+XImsmiyQ1FFjiUwwY7lD0b+M7amugeMnuMJdAZnft42TJ9PYdlgnava/r5rXcT895aBY6frg==",
+  "dgSpecHash": "8ADlzX1e6eXEsgevwlw1PdduH7ij/7yU92NR7us2hHp7ll4C/lMW0bbRXuTlnENr5Sfw2vwFbSrp5NWMF+7zMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\ClasesMetodos\\BibliotecaMetodos.csproj",
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\parcial_Laboratorio_2\\ClasesMetodos\\BibliotecaMetodos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",

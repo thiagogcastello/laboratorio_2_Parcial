@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIFOYM1xVUQeuv0gcRS2mVoh9KLTRbv5mkBGGAtNiFj0aLN8kLK2kZ70QkzqqkQLUz6Wf9rwJemC2aMyskZzGw==",
+  "dgSpecHash": "pIMLeFJ+3yX/5aHpD64lqoU9aVIYFu1Yn/GF0qM7RVKPZ/0hFVRkmjiSm8FG5WUUPR+esC5EHshGE0Q7BwWd+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\Gonzalez.Castello.Thiago.Parcial\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Escritorio\\Labo_ll\\parcial_Laboratorio_2\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
