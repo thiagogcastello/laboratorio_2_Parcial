@@ -224,7 +224,7 @@
             Name = "frmOperario";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "OPERARIO";
-            Load += frmOperario_Load;
+            //Load += frmOperario_Load;
             ((System.ComponentModel.ISupportInitialize)dgvStock).EndInit();
             gpProducir.ResumeLayout(false);
             gpProducir.PerformLayout();

@@ -258,7 +258,7 @@
             RightToLeft = RightToLeft.No;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "ToyPixar Factory Pro";
-            Load += Form1_Load;
+            //Load += Form1_Load;
             gbInicioSesion.ResumeLayout(false);
             gbInicioSesion.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pb2).EndInit();

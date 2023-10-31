@@ -33,11 +33,6 @@ namespace parcial_Laboratorio_2
             lklblUsuario.Text = usuario?.Nombre.ToUpper();
         }
 
-        private void frmOperario_Load(object sender, EventArgs e)
-        {
-
-        }
-
         /// <summary>
         /// Maneja el evento de clic en el botón 'btnProducir'. Activa un temporizador para simular la producción de productos seleccionados.
         /// Muestra una barra de progreso y ajusta el tamaño del formulario.

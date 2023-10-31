@@ -20,10 +20,6 @@ namespace parcial_Laboratorio_2
         public frmSupervisor(string tbNombreUsuario) : base(tbNombreUsuario)
         {
             InitializeComponent();
-        }
-
-        private void FormSupervisor_Load(object sender, EventArgs e)
-        {
             CargarListaCboxMp();
         }
 

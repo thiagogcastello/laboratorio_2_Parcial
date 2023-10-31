@@ -92,10 +92,5 @@ namespace parcial_Laboratorio_2
             tbNombreUsuario.Text = Personal.operario1.NombreUsuario;
             tbPassword.Text = Personal.operario1.Password;
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

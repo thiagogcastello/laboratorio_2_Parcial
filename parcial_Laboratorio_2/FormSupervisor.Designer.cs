@@ -98,7 +98,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "frmSupervisor";
             Text = "SUPERVISOR";
-            Load += FormSupervisor_Load;
+            //Load += FormSupervisor_Load;
             ((System.ComponentModel.ISupportInitialize)nudCantStock).EndInit();
             gbRestock.ResumeLayout(false);
             gbRestock.PerformLayout();
